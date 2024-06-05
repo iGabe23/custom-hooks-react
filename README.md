@@ -9,3 +9,4 @@ Currently, two official plugins are available:
 # react-custom-hooks
 # react-custom-hooks
 # react-custom-hooks
+# custom-hooks-react
